@@ -28,8 +28,5 @@
   "keywords": [
     "mongoose"
   ],
-  "peerDependencies": {
-    "mongoose": ">= 3.5.0 < 4"
-  },
   "license": "MIT"
 }
